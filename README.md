@@ -7,7 +7,7 @@ A comprehensive iOS application demonstrating modern API request handling, Swift
 ### 🏠 Main Menu
 The app provides a clean, intuitive main menu with four key features:
 
-![Home Screen](Resources/Home_Screen.png)
+<img src="Resources/Home_Screen.png" width="70%" />
 
 ### 📋 Default View
 A basic SwiftData implementation demonstrating:
@@ -16,7 +16,7 @@ A basic SwiftData implementation demonstrating:
 - ✅ Real-time data updates
 - ✅ SwiftUI navigation integration
 
-![Default View](Resources/DefaultView.png)
+<img src="Resources/DefaultView.png" width="70%" />
 
 ### 🐕 Image Fetcher
 Advanced API integration showcasing:
@@ -27,7 +27,7 @@ Advanced API integration showcasing:
 - ✅ SwiftData persistence for API request history
 - ✅ Modern MVVM architecture pattern
 
-![Image Fetcher View](Resources/ImageFetcherView.png)
+<img src="Resources/ImageFetcherView.png" width="70%" />
 
 **Key Components:**
 - `ImageFetcherClient`: Protocol-based HTTP client
@@ -44,7 +44,7 @@ Comprehensive request tracking featuring:
 - ✅ Bulk clear functionality
 - ✅ SwiftData queries with sorting
 
-![API Request History View](Resources/APIRequestHistoryView.png)
+<img src="Resources/APIRequestHistoryView.png" width="70%" />
 
 ### 📱 UIKit Integration
 Seamless SwiftUI ↔ UIKit navigation:
@@ -54,7 +54,7 @@ Seamless SwiftUI ↔ UIKit navigation:
 - ✅ Modern UIButton configurations
 - ✅ Bidirectional navigation flow
 
-![UIKit Example View](Resources/UIKItExampleView.png)
+<img src="Resources/UIKItExampleView.png" width="70%" />
 
 ## 🏗️ Architecture
 
